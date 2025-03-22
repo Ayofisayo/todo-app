@@ -1,7 +1,6 @@
 wash
 brush your teeth
 wash
-wash plate
 sleep
 clean the code
 cook
