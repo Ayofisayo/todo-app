@@ -1,7 +1,6 @@
 wash
 brush your teeth
 wash
-sleep
 clean the code
 cook
 slap
