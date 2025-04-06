@@ -22,7 +22,7 @@ All versions share the same `todo.txt` file for simple file-based task storage. 
 - Minimalistic CLI for fast task entry
 - SimpleGUI-powered desktop interface
 - Streamlit-based modern web app
-- Easy deployment with [Hokato](https://hokato.io/)
+- Easy deployment with [Heroku](https://Heroku.com/)
 
 ---
 
@@ -32,7 +32,7 @@ All versions share the same `todo.txt` file for simple file-based task storage. 
 - **CLI:** Python standard input/output
 - **GUI:** [SimpleGUI](https://simpleguics2pygame.readthedocs.io/)
 - **Web App:** [Streamlit](https://streamlit.io/)
-- **Deployment:** [Hokato](https://hokato.io/)
+- **Deployment:** [Heroku](https://Heroku.com/)
 
 ---
 
