@@ -47,3 +47,23 @@ todo-app/
 ├── todo.txt          # Shared task storage
 ├── requirements.txt  # Python dependencies
 └── README.md
+
+# Getting Started
+### Clone the Repository
+git clone https://github.com/yourusername/todo-app.git
+cd todo-app
+
+###Install Dependencies
+pip install -r requirements.txt
+
+### Run the CLI App
+python cli_app.py
+
+### Run the GUI App
+python gui_app.py
+
+### Run the Web App
+streamlit run web_app.py
+
+![Screenshot 2025-04-05 025605](https://github.com/user-attachments/assets/87b97f49-e61f-4f43-bf03-ec01e9a23e0e)
+
