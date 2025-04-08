@@ -36,6 +36,7 @@ All versions share the same `todo.txt` file for simple file-based task storage. 
 
 ---
 
+
 ## Project Structure
 
 ```plaintext
@@ -47,6 +48,7 @@ todo-app/
 ├── todo.txt          # Shared task storage
 ├── requirements.txt  # Python dependencies
 └── README.md
+
 
 # Getting Started
 ### Clone the Repository
