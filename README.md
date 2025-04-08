@@ -51,7 +51,8 @@ todo-app/
 
 ---
 
-**# Getting Started**
+**## Getting Started**
+
 **### Clone the Repository**
 git clone https://github.com/yourusername/todo-app.git
 cd todo-app
