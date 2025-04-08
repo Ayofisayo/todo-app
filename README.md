@@ -35,7 +35,7 @@ All versions share the same `todo.txt` file for simple file-based task storage. 
 - **Deployment:** [Heroku](https://Heroku.com/)
 
 ---
-**## Getting Started**
+##**## Getting Started**
 
 **### Clone the Repository**
 git clone https://github.com/yourusername/todo-app.git
