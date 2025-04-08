@@ -35,22 +35,6 @@ All versions share the same `todo.txt` file for simple file-based task storage. 
 - **Deployment:** [Heroku](https://Heroku.com/)
 
 ---
-
-
-## Project Structure
-
-```plaintext
-todo-app/
-│
-├── cli_app.py        # Command-line interface
-├── gui_app.py        # Desktop GUI using SimpleGUI
-├── web_app.py        # Web interface using Streamlit
-├── todo.txt          # Shared task storage
-├── requirements.txt  # Python dependencies
-└── README.md
-
----
-
 **## Getting Started**
 
 **### Clone the Repository**
@@ -69,5 +53,19 @@ python gui_app.py
 ### Run the Web App
 streamlit run web_app.py
 
-![Screenshot 2025-04-05 025605](https://github.com/user-attachments/assets/87b97f49-e61f-4f43-bf03-ec01e9a23e0e)
+## Project Structure
+
+```plaintext
+todo-app/
+│
+├── cli_app.py        # Command-line interface
+├── gui_app.py        # Desktop GUI using SimpleGUI
+├── web_app.py        # Web interface using Streamlit
+├── todo.txt          # Shared task storage
+├── requirements.txt  # Python dependencies
+└── README.md
+
+---
+
+
 
