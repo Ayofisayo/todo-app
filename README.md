@@ -49,19 +49,20 @@ todo-app/
 ├── requirements.txt  # Python dependencies
 └── README.md
 
+---
 
-# Getting Started
-### Clone the Repository
+**# Getting Started**
+**### Clone the Repository**
 git clone https://github.com/yourusername/todo-app.git
 cd todo-app
 
-###Install Dependencies
+**###Install Dependencies**
 pip install -r requirements.txt
 
-### Run the CLI App
+**### Run the CLI App**
 python cli_app.py
 
-### Run the GUI App
+**### Run the GUI App**
 python gui_app.py
 
 ### Run the Web App
