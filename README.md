@@ -35,19 +35,19 @@ All versions share the same `todo.txt` file for simple file-based task storage. 
 - **Deployment:** [Heroku](https://Heroku.com/)
 
 ---
-##**## Getting Started**
+## Getting Started
 
-**### Clone the Repository**
+## Clone the Repository
 git clone https://github.com/yourusername/todo-app.git
 cd todo-app
 
-**###Install Dependencies**
+### Install Dependencies
 pip install -r requirements.txt
 
-**### Run the CLI App**
+### Run the CLI App
 python cli_app.py
 
-**### Run the GUI App**
+### Run the GUI App
 python gui_app.py
 
 ### Run the Web App
